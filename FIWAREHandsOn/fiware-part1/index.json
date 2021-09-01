@@ -37,6 +37,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "dotnet-docker"
+    "imageid": "docker-swarm"
   }
 }
